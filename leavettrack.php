@@ -1,0 +1,357 @@
+<HTML>
+<HEAD>
+<STYLE>
+h1 {
+    background-color: lightblue;
+}
+.button {
+    background-color: #008CBA;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+     height:70px;
+    width:130px;
+}
+
+</STYLE>
+</HEAD>
+<BODY><CENTER>
+<h1>LEAVE TRACKER</h1><br><br>
+<form action="leave.php" method="get">
+<button class="button" type="submit">NEXT</button></BR></BR></BR>
+
+
+<TABLE border="2">
+<THEAD>
+<TH>RESOURCE NAME</TH>
+<TH>TOTAL LEAVES TAKEN </TH>
+<TH>LEAVE AVAILABLE</TH>
+<TH>START DATE</TH>
+<TH>END DATE</TH>
+</THEAD>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+<TR>
+<TD>GUIW</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>12/01/16</TD>
+<TD>15/01/16</TD>
+ </TR>
+<TR>
+<TD>HENRY</TD>
+<TD>4</TD>
+<TD>1</TD>
+<TD>14/01/16</TD>
+<TD>17/01/16</TD>
+ </TR>
+<TR>
+<TD>KIEL</TD>
+<TD>1</TD>
+<TD>4</TD>
+<TD>03/01/16</TD>
+<TD>03/01/16</TD>
+ </TR>
+
+
+</TABLE>
+</BODY>
+</HTML>
